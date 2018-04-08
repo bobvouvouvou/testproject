@@ -3,6 +3,7 @@
 
 void main{
   printhello();
+  printf("hesqueçamerche");
 }
 //hello?
 //hello v2
