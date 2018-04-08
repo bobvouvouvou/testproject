@@ -1,5 +1,5 @@
 #include <stdio.h>
 
 void printhello(){
-    printf("hello");
+    printf("hello, memes lul 3d");
 }
